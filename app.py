@@ -226,7 +226,7 @@ with st.container():
         [Our Module Study Case~!](https://drive.google.com/file/d/1HHyD5ENQCZnOApzktPRf7yEl8xv01_QG/view?usp=sharing)
         """
     )
-    st.write(":books::iphone:E-Books:books::iphone:")
+    st.write(":books::iphone:E-Books:iphone::books:")
     st.write("[E-book 1](https://drive.google.com/file/d/1N_4uVKChmf9cFTZACu0pfDhUM94Tjbu-/view?usp=sharing)")
     st.write("[E-book 2](https://drive.google.com/file/d/1twhAqrlwt4QJZvchf5gW9zQ8XZzF50Fl/view?usp=sharing)")
     st.write("[E-book 3](https://drive.google.com/file/d/1ZmHNMg-s-clBzYYFD-XbPNXIKKpSDYIk/view?usp=sharing)")
